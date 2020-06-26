@@ -1,4 +1,4 @@
-module github.com/ituyakbayev/ari-proxy/v5.0.5
+module github.com/ituyakbayev/ari-proxy/v5
 
 go 1.13
 
