@@ -1,10 +1,10 @@
-module github.com/ituyakbayev/ari-proxy/v5 v5.0.5
+module github.com/ituyakbayev/ari-proxy/v5.0.5
 
 go 1.13
 
 require (
 	github.com/BurntSushi/toml v0.3.1 // indirect
-	github.com/ituyakbayev/ari-proxy/v5 v5.0.4
+	github.com/ituyakbayev/ari-proxy/v5 v5.0.5
 	github.com/ituyakbayev/ari/v5 v5.0.8
 	github.com/fsnotify/fsnotify v0.0.0-20170329110642-4da3e2cfbabc // indirect
 	github.com/gogo/protobuf v1.3.1 // indirect
