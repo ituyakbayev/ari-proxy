@@ -6,10 +6,10 @@ import (
 
 	"github.com/inconshreveable/log15"
 
-	"github.com/CyCoreSystems/ari-proxy/v5/client"
-	"github.com/CyCoreSystems/ari/v5"
-	"github.com/CyCoreSystems/ari/v5/ext/play"
-	"github.com/CyCoreSystems/ari/v5/rid"
+	"github.com/ituyakbayev/ari-proxy/v5.0.5/client"
+	"github.com/ituyakbayev/ari/v5.0.8"
+	"github.com/ituyakbayev/ari/v5.0.8/ext/play"
+	"github.com/ituyakbayev/ari/v5.0.8/rid"
 	"github.com/pkg/errors"
 )
 

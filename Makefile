@@ -15,8 +15,8 @@ dep:
 	go mod tidy
 
 docker: all
-	docker build -t cycoresystems/ari-proxy ./
-	docker push cycoresystems/ari-proxy
+	docker build -t ituyakbayev/ari-proxy ./
+	docker push ituyakbayev/ari-proxy
 
 test:
 	go test ./...
